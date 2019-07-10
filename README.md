@@ -1,2 +1,2 @@
 # iMsgDiceSim
-dice simulator and random number generator for imessage
+idea: dice simulator and random number generator for imessage
